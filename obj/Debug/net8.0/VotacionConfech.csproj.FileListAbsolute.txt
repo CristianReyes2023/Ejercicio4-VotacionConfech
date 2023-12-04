@@ -1,0 +1,14 @@
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\bin\Debug\net8.0\VotacionConfech.exe
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\bin\Debug\net8.0\VotacionConfech.deps.json
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\bin\Debug\net8.0\VotacionConfech.runtimeconfig.json
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\bin\Debug\net8.0\VotacionConfech.dll
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\bin\Debug\net8.0\VotacionConfech.pdb
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.AssemblyInfo.cs
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.dll
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\refint\VotacionConfech.dll
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.pdb
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\VotacionConfech.genruntimeconfig.cache
+C:\Users\user\Documents\CristianReyesPrueba\VotacionConfech\obj\Debug\net8.0\ref\VotacionConfech.dll
